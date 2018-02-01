@@ -8,6 +8,8 @@ public class TestGit {
 		System.out.println("这是我提交的一个dev 分支");
 		
 		System.out.println("重新提交");
+		
+		System.out.println("这是一个会引起冲突的操作");
 	}
 
 }
