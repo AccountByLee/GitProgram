@@ -15,6 +15,12 @@ public class TestGit {
 		System.out.println("我是dev 刚重新提交的代码。。。。");
 
 		System.out.println("我是冯小宝的master提交的代码，，。");
+		
+		System.out.println("我是冯小宝的master第二次提交的代码，，。");
+		
+		System.out.println("我是冯小宝的master第三次提交的代码，，。");
+		
+		
 	}
 
 }
