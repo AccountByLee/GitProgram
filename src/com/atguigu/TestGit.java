@@ -19,7 +19,6 @@ public class TestGit {
 		System.out.println("我是冯小宝的master第二次提交的代码，，。");
 		
 		System.out.println("我是冯小宝的master第三次提交的代码，，。");
-		System.out.println("我是冯小宝的master第4次提交的代码，，。");
 		
 		
 	}
